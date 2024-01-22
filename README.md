@@ -1,0 +1,1 @@
+This repository contains the .blend file for the gilded sword. There are no textures however, and I didnt delete the shaders or disconnect the textures from the shaders, so there will be a lot of pink if one tries to render without re-texturing themselves.
